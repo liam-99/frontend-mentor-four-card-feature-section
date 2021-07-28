@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-flexbox-design-0mCb7PRjK
+- Live Site URL: https://frontend-mentor-four-card-feature-section-mauve.vercel.app/
 
 ## My process
 
